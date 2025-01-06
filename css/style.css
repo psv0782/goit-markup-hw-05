@@ -659,11 +659,7 @@ img {
 .modal-close:focus{
     background-color: #404bbf;
     border: none;
-}
-
-.icon-close:hover,
-.icon-close:focus{
-    fill: #fff;
+    fill: #ffffff;
 }
 
 .modal-text{
